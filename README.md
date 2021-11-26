@@ -1,3 +1,3 @@
-# Sistema PControl
-Sistema de controle de Ponto e Acesso em desenvolvimento para estudo
-Linguagem Java + Spring Boot
+# PControl
+API Rest para gerenciamento de ponto e controle de acesso - Em desenvolvimento
+Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
